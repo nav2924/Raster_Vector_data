@@ -20,6 +20,7 @@ To run this program, you need to have Python 3.x installed along with the requir
    git clone https://github.com/nav2924/Raster_Vector_data.git
 
 2. **Change Directory**
+   ```bash
    cd Raster_Vector_data
 
 ## Data
