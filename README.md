@@ -18,4 +18,34 @@ To run this program, you need to have Python 3.x installed along with the requir
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/nav2924/Raster_Vector_data.git
+
+2. **Change Directory**
    cd Raster_Vector_data
+
+## Data
+
+- **Vector Data**: The repository includes sample shapefiles for testing GeoPandas operations.
+- **Raster Data**: A sample raster file is provided for testing Rasterio functionalities.
+
+## Example Output
+
+Below are some examples of the outputs you can expect:
+
+- **Vector Data Plot**:
+
+- **Raster Data Visualization**:
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- [GeoPandas](https://geopandas.org/)
+- [Rasterio](https://rasterio.readthedocs.io/)
+- The open-source community for providing the tools and libraries used in this project.
+
